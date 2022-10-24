@@ -1,4 +1,4 @@
-public class AaDataType {
+public class L01DataType {
     public static void main(String[] args) {
         System.out.println("Hello, We will look at dat type in Java. Let's look at max an min values of data.");
 
